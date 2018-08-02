@@ -1,2 +1,4 @@
 # Intro
-My first steps on GitHub
+
+
+This is my first testing commit message. Bla bla bla...
